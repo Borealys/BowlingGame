@@ -1,2 +1,0 @@
-# BowlingGame
-BowlingGame kata
